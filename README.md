@@ -1,0 +1,3 @@
+Within the static file, in the js file,are the index html code as well as the logic JavaScript file. You can run both in vscode or coding software as desired to produce map that depicts the earthquake activity from the past 30 days. This map connects to the USGS GeoJSON feed to populate the map. Marker size corresponds to earthquake magnitude. The legend depicts the depth and corresponding color. You can click on an earthquake (as denoted by color), to see the scale with magnitude level, and the tooltip provides the location and depth. 
+
+Code was created in part from Vanderbilt Data Analytics bootcamp course from Week 15 Module
